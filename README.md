@@ -2,9 +2,9 @@
 
 #### I'm Sam and I'm combining web development with marketing and sales. 😀
 
-## I'm a Husband, Father, Developer, and Teacher!
+## Random Things About Me
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 Our [Youtube Channel][https://www.youtube.com/c/dev-world-info]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
