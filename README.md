@@ -2,9 +2,6 @@
 
 #### I'm Sam and I'm combining web development with marketing and sales. 😀
 
-<img align="right" height="300px" width="500px" alt="GIF" src="https://mahmoud.codes/static/coding-74ebaac55a1d7aae7cabe6d05bf9a7b1.svg" />
-
-<br/>
 <br/>
 
 ## I'm a Husband, Father, Developer, and Teacher!
