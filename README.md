@@ -4,7 +4,7 @@
 
 ## Random Things About Me
 
-- 🔭 Our [Youtube Channel][https://www.youtube.com/c/dev-world-info]
+- 🔭 Our [Youtube Channel](https://www.youtube.com/c/dev-world-info)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
