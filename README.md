@@ -5,10 +5,11 @@
 ## Random Things About Me
 
 - 🔭 Our [Youtube Channel](https://www.youtube.com/c/dev-world-info)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+-
+- 🐱‍👤 I’m looking to collaborate with other passionate developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
+  <img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="20"/> [mahmoud.codes](https://mahmoud.codes)
 
 <br/>
 
