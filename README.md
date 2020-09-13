@@ -5,7 +5,7 @@
 ## Random Things About Me
 
 <br />
-From <img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="20"/> living fulltime in <img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="20"/>
+ <img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="20"/> From
 <br />
 <img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="youtube" width="20" height="20"/> My [Youtube Channel](https://www.youtube.com/c/dev-world-info)
 <br />
