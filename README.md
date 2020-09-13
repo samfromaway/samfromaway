@@ -1,6 +1,6 @@
 ## `Hey There!` <img src="https://user-images.githubusercontent.com/27310414/88125741-37525480-cbd0-11ea-8b1d-7bb917bb8d89.gif" alt="twitter" width="36" height="36"/>
 
-#### I'm Sam and I'm combining web development with marketing and sales 😀.
+#### I'm Sam and I'm combining web development with marketing and sales. 😀
 
 <img align="right" height="300px" width="500px" alt="GIF" src="https://mahmoud.codes/static/coding-74ebaac55a1d7aae7cabe6d05bf9a7b1.svg" />
 
@@ -23,43 +23,27 @@
 
 <br/>
 
-## `Experience` <img src="https://user-images.githubusercontent.com/27310414/88125498-b4c99500-cbcf-11ea-9766-628cdef39daa.gif" alt="twitter" width="36" height="36"/>
+## Languages and Tools:
 
-➔ **Auth0 Ambassador** [@Auth0](https://auth0.com) _(Jun 2020 - Present)_
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-Working with Auth0's DevRel team to create content about security, authentication and Auth0
-
-➔ **Learner Advocate** [@Egghead.io](https://egghead.io) _(May2020 - Present)_
-
-Responsible for taking notes for courses, reviewing them and attending workshops on Egghead
-
-➔ **Front-end Software Engineer** (Part-time) [@Qpix](https://qpix.io/) _(May 2020 - Jun 2020)_
-
-Responsible for building a component library using React.js, styled-components, Storybook, and Material-UI. I also used Prettier for formatting, ESLint for linting, Babel for transpiling, and Rollup for bundling.
-
-➔ **Front-end Software Engineer** (Contract) [@Podion](https://podion.co/) _(Apr 2020 - May 2020)_
-
-Responsible for building the entire front-end for [Podion](https://podion.co), an audio-based course platform, using ReactJS and styled-components.
-
-➔ **Front-end Intern** [@Robusta Studio](https://robustastudio.com) _(Dec 2019 - Jan 2020)_
-
-Worked within an agile team on front-end features for [Blue Bus](https://bluebus.com.eg/)
-
-➔ **Junior Teaching Assistant** [@German University in Cairo](http://guc.edu.eg) _(Sep 2019 - Dec 2019)_
-
-Volunteered to teach CSEN301 (Data Structures & Algorithms) at the German University in Cairo.
-
-<br/>
-
-## `Talks` <img src="https://user-images.githubusercontent.com/27310414/88125684-18ec5900-cbd0-11ea-82f0-709031e56a03.gif" alt="twitter" width="36" height="36"/>
-
-➔ **Beginner Pitfalls: My Personal Journey** [@ByteConf React](https://www.bytesized.xyz/conferences/byteconf-react-2020/) _(May 2020)_
-
-➔ **GatsbyJS Under The Hood: What Makes It Blazing Fast** [@EgyptJS](https://www.meetup.com/EgyptJS/events/269752047/) _(April 2020)_
-
-➔ **Hooked: How To Build Habit Forming Products** [@EgyptJS](https://www.meetup.com/EgyptJS/events/260794616/) _(Aug 2019)_
-
-<br/>
+<br />
+<br />
 
 ## `Achievements I'm proud of` <img src="https://user-images.githubusercontent.com/27310414/88125586-e0e51600-cbcf-11ea-9202-14cdb679dc05.gif" alt="twitter" width="36" height="36"/>
 
