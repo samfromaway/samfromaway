@@ -7,19 +7,13 @@
 <br/>
 <br/>
 
-<div align="left">
+## I'm a Husband, Father, Developer, and Teacher!
 
-<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="personal website" width="20" height="20"/> [mahmoud.codes](https://mahmoud.codes)
-
-<img src="https://user-images.githubusercontent.com/27310414/88126694-6b2e7980-cbd2-11ea-88d5-96045329b3d6.png" alt="twitter" width="20" height="20"/> [@thisismahmoud\_](https://twitter.com/thisismahmoud_)
-
-<img src="https://user-images.githubusercontent.com/27310414/88126699-6c5fa680-cbd2-11ea-94ef-0385cf08206d.png" alt="linkedin" width="20" height="20"/> [m-abdelwahab-dev](https://www.linkedin.com/in/m-abdelwahab-dev/)
-
-<img src="https://user-images.githubusercontent.com/27310414/88126702-6c5fa680-cbd2-11ea-860f-5acacd08316c.png" alt="blog" width="20" height="20"/> [mahmoud.codes/blog](https://mahmoud.codes/blog)
-
-<img src="https://user-images.githubusercontent.com/27310414/88126703-6cf83d00-cbd2-11ea-81a1-c632be2e9edc.png" alt="tools used" width="20" height="20"/> [mahmoud.codes/uses](https://mahmoud.codes/uses)
-
-</div>
+- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
 <br/>
 
@@ -40,7 +34,7 @@
 <br />
 <br />
 
-## `Achievements I'm proud of` <img src="https://user-images.githubusercontent.com/27310414/88125586-e0e51600-cbcf-11ea-9202-14cdb679dc05.gif" alt="twitter" width="36" height="36"/>
+## Achievements I'm proud of <img src="https://user-images.githubusercontent.com/27310414/88125586-e0e51600-cbcf-11ea-9202-14cdb679dc05.gif" alt="twitter" width="36" height="36"/>
 
 ➔ **Google Hashcode 2020** _(Feb 2030)_
 
