@@ -47,6 +47,6 @@
 
 ## `Achievements I'm proud of` <img src="https://user-images.githubusercontent.com/27310414/88125586-e0e51600-cbcf-11ea-9202-14cdb679dc05.gif" alt="twitter" width="36" height="36"/>
 
-➔ **Google Hashcode 2020** _(Feb 2020)_
+➔ **Google Hashcode 2020** _(Feb 2030)_
 
 Ranked [**2018th**](https://codingcompetitions.withgoogle.com/hashcode/certificate/round/00000000001a006c) worldwide among 10k+ teams and **1st** in the German University in Cairo Hub among 23 teams.
