@@ -1,6 +1,6 @@
 ## `Hey There!` <img src="https://user-images.githubusercontent.com/27310414/88125741-37525480-cbd0-11ea-8b1d-7bb917bb8d89.gif" alt="twitter" width="36" height="36"/>
 
-#### I'm Sam and I'm combining web development with marketing and sales. 😀
+### I'm Sam and I'm combining web development with marketing and sales. 😀
 
 ## Random Things About Me
 
@@ -13,8 +13,6 @@
 <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/ninja_1f977.png?raw=true" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
 <br />
 <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/man-mage_1f9d9-200d-2642-fe0f.png?raw=true" alt="Magic" width="20" height="20"/> I think algorithms are magic.
-
-<br/>
 
 ## My Stack:
 
