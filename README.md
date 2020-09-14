@@ -6,13 +6,13 @@
 
 <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/swiss.png?raw=true" alt="Switzerland" width="20" height="20"/> I'm from Switzerland and live full time in Colombia.<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/colombia.png?raw=true" alt="Colombia" width="20" height="20"/>
 <br />
-<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="Agency" width="20" height="20"/> My [Digital Agency](https://dev-world.agency/)
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/personal-computer_1f4bb.png?raw=true" alt="Agency" width="20" height="20"/> My [Digital Agency](https://dev-world.agency/)
 <br />
-<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="Youtube" width="20" height="20"/> My [Youtube Channel](https://www.youtube.com/c/dev-world-info)
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/yt.png?raw=true" alt="Youtube" width="20" height="20"/> My [Youtube Channel](https://www.youtube.com/c/dev-world-info)
 <br />
-<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/ninja_1f977.png?raw=true" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
 <br />
-<img src="https://user-images.githubusercontent.com/27310414/88126696-6bc71000-cbd2-11ea-8726-ff4301da3c55.png" alt="Magic" width="20" height="20"/> I think algorithms are magic.
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/man-mage_1f9d9-200d-2642-fe0f.png?raw=true" alt="Magic" width="20" height="20"/> I think algorithms are magic.
 
 <br/>
 
