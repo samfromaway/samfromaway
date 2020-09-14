@@ -16,7 +16,7 @@
 
 <br/>
 
-## Languages and Tools:
+## My Stack:
 
 <img align="left" alt="HTML" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/html.png?raw=true" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/css.png?raw=true" />
