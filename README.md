@@ -21,6 +21,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/javascript.png?raw=true" />
 <img align="left" alt="Sass" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/sass.png?raw=true" />
 <img align="left" alt="React" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/react.png?raw=true" />
+<img align="left" alt="Next" width="26px" src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/gatsby.png?raw=true" />
 <img align="left" alt="GraphQL" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/graphql.png?raw=true" />
 <img align="left" alt="Node" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/node.jpg?raw=true" />
