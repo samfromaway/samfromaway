@@ -2,17 +2,13 @@
 
 ### I'm Sam and I'm combining web development with business. 😀
 
-## Random Things About Me
+## My Focus
 
-<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/swiss.png?raw=true" alt="Switzerland" width="20" height="20"/> I'm from Switzerland and live full time in Colombia. <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/colombia.png?raw=true" alt="Colombia" width="20" height="20"/>
-<br />
-<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/personal-computer_1f4bb.png?raw=true" alt="Agency" width="20" height="20"/> My [Digital Agency](https://dev-world.agency/)
-<br />
-<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/yt.png?raw=true" alt="Youtube" width="20" height="20"/> My [Youtube Channel](https://www.youtube.com/c/dev-world-info)
-<br />
-<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/ninja_1f977.png?raw=true" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
-<br />
-<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/man-mage_1f9d9-200d-2642-fe0f.png?raw=true" alt="Magic" width="20" height="20"/> I think algorithms are magic.
+I'm a full-stack developer (manly frontend though) passionate about working with React.  
+If I build websites I use Next.js with my SEO experience.  
+If I build web-apps I use React with Material UI or React admin.  
+I try to avoid building backends and use SaaS instead.
+<br/>
 
 ## My Stack
 
@@ -27,4 +23,19 @@
 <img align="left" alt="Node" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/node.jpg?raw=true" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/firebase-1-logo-pngrepo-com.png?raw=true" />
 <img align="left" alt="Contentful" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/472182.png?raw=true" />
-<img align="left" alt="VS-Code" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/visual-studio-code.png?raw=true" />
+<img align="left" alt="VS-Code" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/visual-studio-code.png?raw=true" /><br/><br/>
+
+## Random Things About Me
+
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/swiss.png?raw=true" alt="Switzerland" width="20" height="20"/> I'm from Switzerland and live full time in Colombia. <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/colombia.png?raw=true" alt="Colombia" width="20" height="20"/>
+<br />
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/personal-computer_1f4bb.png?raw=true" alt="Agency" width="20" height="20"/> My [Digital Agency](https://dev-world.agency/)
+<br />
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/yt.png?raw=true" alt="Youtube" width="20" height="20"/> My [Youtube Channel](https://www.youtube.com/c/dev-world-info)
+<br />
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/ninja_1f977.png?raw=true" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
+<br />
+<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/man-mage_1f9d9-200d-2642-fe0f.png?raw=true" alt="Magic" width="20" height="20"/> I think algorithms are magic.
+
+
+
