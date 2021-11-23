@@ -27,8 +27,6 @@ I try to avoid building backends and use SaaS instead.
 
 ## Random Things About Me
 
-<img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/swiss.png?raw=true" alt="Switzerland" width="20" height="20"/> I'm from Switzerland and live full time in Colombia. <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/colombia.png?raw=true" alt="Colombia" width="20" height="20"/>
-<br />
 <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/personal-computer_1f4bb.png?raw=true" alt="Agency" width="20" height="20"/> My [Digital Agency](https://dev-world.agency/)
 <br />
 <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/yt.png?raw=true" alt="Youtube" width="20" height="20"/> My [Youtube Channel](https://www.youtube.com/c/dev-world-info)
