@@ -1,6 +1,6 @@
 ## `Hey There!` <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/fire.gif?raw=true" alt="twitter" width="36" height="36"/>
 
-### I'm Sam and I'm combining web development with business. 😀
+### I'm Sam and I'm combining web development and business. 😀
 
 ## My Focus
 
