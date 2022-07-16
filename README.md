@@ -10,6 +10,10 @@ When I build web-apps I use React with Material UI or React admin.
 I try to avoid building backends and use SaaS instead.
 <br/>
 
+## my change
+
+Change
+
 ## My Stack
 
 <img align="left" alt="HTML" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/html.png?raw=true" />
@@ -34,6 +38,3 @@ I try to avoid building backends and use SaaS instead.
 <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/ninja_1f977.png?raw=true" alt="Colab" width="20" height="20"/> I’m looking to collaborate with other passionate developers.
 <br />
 <img src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/man-mage_1f9d9-200d-2642-fe0f.png?raw=true" alt="Magic" width="20" height="20"/> I think algorithms are magic.
-
-
-
