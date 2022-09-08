@@ -7,7 +7,6 @@
 I'm a full-stack developer (manly frontend though) passionate about working with React.  
 When I build websites I use Next.js with my SEO experience.  
 When I build web-apps I use React with Material UI or React admin.  
-I try to avoid building backends and use SaaS instead.
 <br/>
 
 ## My Stack
